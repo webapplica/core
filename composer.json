@@ -1,0 +1,13 @@
+{
+    "name": "webapplica/core",
+    "description": "WebApplication Core",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Hassan ZEROUAL",
+            "email": "zerhassan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
